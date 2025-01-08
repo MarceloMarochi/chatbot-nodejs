@@ -8,3 +8,4 @@
 
 # Execute
 - node index.js
+- Abrir http://localhost:8080/
