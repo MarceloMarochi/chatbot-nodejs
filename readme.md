@@ -7,5 +7,6 @@
 5. npm install ejs
 
 # Execute
+- npm i
 - node index.js
 - Abrir http://localhost:8080/
